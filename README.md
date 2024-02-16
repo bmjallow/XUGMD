@@ -21,6 +21,9 @@ Integrate all the mobile money payments and microfinances into one system
 All the boilerplates we for the entire project is pull from MultiversX dapp template inheriting the core design
 See [Unionacy](https://unionacy.wordpress.com/) for more details.
 
+## Testing
+cypress is use for dapp testing, bugs, new features, flexibility etc
+
 ## Requirements
 
 - Node.js version 16.20.0+
